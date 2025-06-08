@@ -22,10 +22,10 @@ repository               : "ethanlopes36/ethanlopes36.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "ELL2023.jpg"
+  avatar           : "ELL2023.png"
   name             : "Ethan Lopes"
   pronouns         : # example: "he/him"  
-  bio              : "I am a rock magnetism interested in characterizing secondary magnetic minerals formed through fluid–rock interactions and leveraging their properties—and the signals they retain—to gain insights into broader geological processes. I am particularly interested in using ocean-derived samples as planetary analogs, applying a planetary perspective to reexamine fundamental Earth processes and to test planetary hypotheses."
+  bio              : "Rock Magnetist Dabbling in Other Disciplines"
   location         : "Palo Alto, CA"
   employer         : "Stanford University"
   uri              : # URL
