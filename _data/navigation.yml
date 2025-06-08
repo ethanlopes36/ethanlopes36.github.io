@@ -9,9 +9,6 @@
 
 main:
 
-  - title: "Home"
-    url: /  
-
   - title: "Other Interests"
     url: /otherinterests/     
     
