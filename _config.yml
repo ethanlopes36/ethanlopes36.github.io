@@ -25,10 +25,10 @@ author:
   avatar           : "ELL2023.png"
   name             : "Ethan Lopes"
   pronouns         : # example: "he/him"  
-  bio              : "Rock Magnetist Dabbling in Other Disciplines"
+  bio              : "Rock Magnetist"
   location         : "Palo Alto, CA"
   employer         : "Stanford University"
-  uri              : https://ethanlopes36.github.io/
+  uri              : #https://ethanlopes36.github.io/
   email            : "ellopes@stanford.edu" 
 
   # Academic websites

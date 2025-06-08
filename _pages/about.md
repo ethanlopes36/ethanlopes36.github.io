@@ -9,5 +9,5 @@ redirect_from:
 
 Hi, thanks for visiting my website! I am a Ph.D. candidate in Geophysics at Stanford University advised by Prof. Sonia Tikoo.  
 
-Ethan's personal website
+Site Under Construction
 ======
