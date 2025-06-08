@@ -8,9 +8,6 @@
 #      Markdown formatted page while the second is generated using JSON.
 
 main:
-
-  - title: "Other Interests"
-    url: /otherinterests/     
     
   - title: "Research"
     url: /research/
@@ -20,6 +17,9 @@ main:
     
   - title: "Outreach"
     url: /outreach/  
+
+  - title: "Other Interests"
+    url: /otherinterests/     
 
   - title: "Press"
     url: /press/ 
