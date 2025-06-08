@@ -8,7 +8,7 @@ author_profile: true
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/UbX1JVADu-8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-Student spotlight interview regarding my research an life as a student.
+Student spotlight interview regarding my research and life as a student.
 
 
 ---
