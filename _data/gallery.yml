@@ -1,0 +1,24 @@
+my-interests:
+  - image_path: /images/RubberDuck.jpg
+    alt: "Rubber Duck"
+    title: "Rubber Duck"
+
+  - image_path: /images/StainedGlass.jpeg
+    alt: "Stained Glass"
+    title: "Stained Glass Project"
+
+  - image_path: /images/Observatory.gif
+    alt: "Observatory"
+    title: "Star Gazing"
+
+  - image_path: /images/ColombianCoffee.jpg
+    alt: "Coffee"
+    title: "Trying Coffee Shops"
+
+  - image_path: /images/Backpacking.jpeg
+    alt: "Backpacking"
+    title: "Backpacking"
+
+  - image_path: /images/AltoClef.jpg
+    alt: "Music"
+    title: "Playing Viola"

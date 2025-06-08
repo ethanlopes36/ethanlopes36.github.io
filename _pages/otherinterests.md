@@ -17,3 +17,7 @@ When I'm not in the lab, you can catch me backpacking, star gazing, playing viol
 <img src="/images/ColombianCoffee.jpg" width="200" style="margin: 5px;">
 <img src="/images/Backpacking.jpeg" width="200" style="margin: 5px;">
 <img src="/images/AltoClef.jpg" width="200" style="margin: 5px;">
+
+---
+
+{% include gallery id="my-interests" %}
