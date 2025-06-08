@@ -17,7 +17,7 @@ Student spotlight interview regarding my research and life as a student.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/M3Lrjj7djyU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-Local San Francisco news story about solar flares.
+Local Bay Area news story about solar flares.
 
 {% include base_path %}
 

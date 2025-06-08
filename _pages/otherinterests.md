@@ -9,17 +9,11 @@ When I'm not in the lab, you can catch me backpacking, star gazing, playing viol
 
 ---
 
-### Some of my hobbies:
+### Hobbies and such:
 
+<img src="/images/RubberDuck.jpg" width="200" style="margin: 5px;">
 <img src="/images/StainedGlass.jpeg" width="200" style="margin: 5px;">
 <img src="/images/Observatory.gif" width="200" style="margin: 5px;">
-
+<img src="/images/ColombianCoffee.jpg" width="200" style="margin: 5px;">
 <img src="/images/Backpacking.jpeg" width="200" style="margin: 5px;">
-
----
-
-### Just for fun:
-
-<img src="/images/RubberDuck.jpg" width="100" style="margin: 5px;">
-<img src="/images/ColombianCoffee.jpg" width="100" style="margin: 5px;">
-<img src="/images/AltoClef.jpg" width="100" style="margin: 5px;">
+<img src="/images/AltoClef.jpg" width="200" style="margin: 5px;">
