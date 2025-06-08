@@ -15,30 +15,29 @@ name                     : &name "Your Name"
 description              : &description "personal description"
 url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "ethanlopes36/ethanlopes36.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  avatar           : "ELL2023.jpg"
+  name             : "Ethan Lopes"
+  pronouns         : # example: "he/him"  
+  bio              : "I am a rock magnetism interested in characterizing secondary magnetic minerals formed through fluid–rock interactions and leveraging their properties—and the signals they retain—to gain insights into broader geological processes. I am particularly interested in using ocean-derived samples as planetary analogs, applying a planetary perspective to reexamine fundamental Earth processes and to test planetary hypotheses."
+  location         : "Palo Alto, CA"
+  employer         : "Stanford University"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "ellopes@stanford.edu" 
 
   # Academic websites
   academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?user=_VdfwQcAAAAJ&hl=en&oi=aoJ"
   impactstory      : # URL
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0000-0001-7359-0353"
   semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
   scopus           : # URL
 
