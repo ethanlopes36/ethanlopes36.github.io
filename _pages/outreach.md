@@ -1,12 +1,19 @@
 ---
-layout: archive
+layout: single
 title: "Outreach"
 permalink: /outreach/
 author_profile: true
 ---
 
-{% include base_path %}
+I am passionate about engaging with the public and inspiring future scientists through a variety of outreach activities. Below are some of the organizations and initiatives I’ve been involved with.
 
-{% for post in site.outreach %}
-  {% include archive-single.html %}
-{% endfor %}
+---
+
+## [Pertenecer](https://perteneceryoubelon.wixsite.com/website)
+
+<img src="/images/pertencer.tif" alt="Pertenecer" width="300" style="float: right; margin: 10px;">
+
+Pertenecer is a Stanford-based program that connects K–12 students from underrepresented backgrounds with mentors and hands-on experiences in environmental sciences. I help design workshops, mentor students, and coordinate outreach events.
+
+---
+
