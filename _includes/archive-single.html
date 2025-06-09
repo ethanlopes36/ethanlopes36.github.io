@@ -1,84 +1,66 @@
-{% include base_path %}
-
-{% if post.header.teaser %}
-  {% capture teaser %}{{ post.header.teaser }}{% endcapture %}
-{% else %}
-  {% assign teaser = site.teaser %}
-{% endif %}
-
-{% if post.id %}
-  {% assign title = post.title | markdownify | remove: "<p>" | remove: "</p>" %}
-{% else %}
-  {% assign title = post.title %}
-{% endif %}
-
-<div class="{{ include.type | default: "list" }}__item">
-  <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
-    {% if include.type == "grid" and teaser %}
-      <div class="archive__item-teaser">
-        <img src=
-          {% if teaser contains "://" %}
-            "{{ teaser }}"
-          {% else %}
-            "{{ teaser | prepend: "/images/" | prepend: base_path }}"
-          {% endif %}
-          alt="">
-      </div>
-    {% endif %}
-
-    <h2 class="archive__item-title" itemprop="headline">
-      {% if post.link %}
-        <a href="{{ post.link }}">{{ title }}</a> <a href="{{ base_path }}{{ post.url }}" rel="permalink"><i class="fa fa-link" aria-hidden="true" title="permalink"></i><span class="sr-only">Permalink</span></a>
-      {% else %}
-        <a href="{{ base_path }}{{ post.url }}" rel="permalink">{{ title }}</a>
-      {% endif %}
-    </h2>
-    
-    {% if post.read_time %}
-      <p class="page__meta"><i class="fa fa-clock" aria-hidden="true"></i> {% include read-time.html %}</p>
-    {% endif %}
-
-        {% if post.collection == 'teaching' %}
-          <p> {{ post.type }}, <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
-        {% elsif post.collection == 'publications' %}
-          <p>Published in <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
-        {% elsif post.date %}
-         <p class="page__date"><strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].date_label | default: "Published:" }}</strong> <time datetime="{{ post.date | default: "1900-01-01" | date_to_xmlschema }}">{{ post.date | default: "1900-01-01" | date: "%B %d, %Y" }}</time></p>
-        {% endif %}
-
-    {% if post.excerpt and site.read_more != 'enabled' %}
-    <p class="archive__item-excerpt" itemprop="description">{{ post.excerpt | markdownify }}</p>
-    {% elsif post.excerpt and site.read_more == 'enabled' %}
-    <p class="archive__item-excerpt" itemprop="description"><p>{{ post.excerpt | markdownify | remove: '<p>' | remove: '</p>' }}<strong><a href="{{ base_path }}{{ post.url }}" rel="permalink"> Read more</a></strong></p></p>
-    {% endif %}
-    
-    {% if post.citation and post.paperurl and post.slidesurl and post.bibtexurl %}
-      <p>Recommended citation: {{ post.citation }}<br /><a href="{{ post.paperurl }}">Download Paper</a> | <a href="{{ post.slidesurl }}">Download Slides</a> | <a href="{{ post.bibtexurl }}">Download Bibtex</a></p>
-    {% elsif post.citation and post.paperurl and post.slidesurl %}
-      <p>Recommended citation: {{ post.citation }}<br /><a href="{{ post.paperurl }}">Download Paper</a> | <a href="{{ post.slidesurl }}">Download Slides</a></p>
-    {% elsif post.citation and post.paperurl and post.bibtexurl %}
-      <p>Recommended citation: {{ post.citation }}<br /><a href="{{ post.paperurl }}">Download Paper</a> | <a href="{{ post.bibtexurl }}">Download Bibtex</a></p>
-    {% elsif post.citation and post.paperurl %}
-      <p>Recommended citation: {{ post.citation }}<br /><a href="{{ post.paperurl }}">Download Paper</a></p>
-    {% elsif post.citation and post.slidesurl and post.bibtexurl %}
-      <p>Recommended citation: {{ post.citation }}<br /><a href="{{ post.slidesurl }}">Download Slides</a> | <a href="{{ post.bibtexurl}}">Download Bibtex</a></p>
-    {% elsif post.citation and post.slidesurl %}
-      <p>Recommended citation: {{ post.citation }}<br /><a href="{{ post.slidesurl }}">Download Slides</a></p>
-    {% elsif post.citation and post.bibtexurl %}
-      <p>Recommended citation: {{ post.citation }}<br /><a href="{{ post.bibtexurl }}">Download Bibtex</a></p>
-    {% elsif post.citation %}
-      <p>Recommended citation: {{ post.citation }}</p>
-    {% elsif post.paperurl and post.bibtexurl %}
-      <p><a href=" {{ post.paperurl }} ">Download Paper</a> | <a href="{{ post.bibtexurl }}">Download Bibtex</a></p>
-    {% elsif post.paperurl %}
-      <p><a href=" {{ post.paperurl }} ">Download Paper</a></p>
-    {% elsif post.slidesurl and post.bibtexurl %}
-      <p><a href="{{ post.slidesurl }}">Download Slides</a> | <a href="{{ post.bibtexurl }}">Download Bibtex</a></p>
-    {% elsif post.slidesurl %}
-      <p><a href="{{ post.slidesurl }}">Download Slides</a></p>
-    {% elsif post.bibtexurl %}
-      <p><a href="{{ post.bibtexurl }}">Download Bibtex</a></p>
-    {% endif %}
-
-  </article>
-</div>
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html>
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+  <meta http-equiv="Content-Style-Type" content="text/css">
+  <title></title>
+  <meta name="Generator" content="Cocoa HTML Writer">
+  <meta name="CocoaVersion" content="2575.6">
+  <style type="text/css">
+    p.p1 {margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px Times; -webkit-text-stroke: #000000}
+    p.p2 {margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px Times; -webkit-text-stroke: #000000; min-height: 14.0px}
+    span.s1 {font-kerning: none}
+  </style>
+</head>
+<body>
+<p class="p1"><span class="s1">{% include base_path %}</span></p>
+<p class="p2"><span class="s1"></span><br></p>
+<p class="p1"><span class="s1">{% if post.header.teaser %}</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">  </span>{% capture teaser %}{{ post.header.teaser }}{% endcapture %}</span></p>
+<p class="p1"><span class="s1">{% else %}</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">  </span>{% assign teaser = site.teaser %}</span></p>
+<p class="p1"><span class="s1">{% endif %}</span></p>
+<p class="p2"><span class="s1"></span><br></p>
+<p class="p1"><span class="s1">{% if post.id %}</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">  </span>{% assign title = post.title | markdownify | remove: "\n" | remove: "\r" %}</span></p>
+<p class="p1"><span class="s1">{% else %}</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">  </span>{% assign title = post.title %}</span></p>
+<p class="p1"><span class="s1">{% endif %}</span></p>
+<p class="p2"><span class="s1"></span><br></p>
+<p class="p1"><span class="s1">{% if include.type == "grid" and teaser %}</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">  </span>&lt;img src="{{ teaser | prepend: base_path }}" alt=""&gt;</span></p>
+<p class="p1"><span class="s1">{% endif %}</span></p>
+<p class="p2"><span class="s1"></span><br></p>
+<p class="p1"><span class="s1">{% if post.link %}</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">  </span>&lt;a href="{{ post.link }}"&gt;{{ title }}&lt;/a&gt;</span></p>
+<p class="p1"><span class="s1">{% else %}</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">  </span>{{ title }}</span></p>
+<p class="p1"><span class="s1">{% endif %}</span></p>
+<p class="p2"><span class="s1"></span><br></p>
+<p class="p1"><span class="s1">{% if post.read_time %}</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">  </span>{% include read-time.html %}</span></p>
+<p class="p1"><span class="s1">{% endif %}</span></p>
+<p class="p2"><span class="s1"></span><br></p>
+<p class="p1"><span class="s1">{% if post.collection == 'teaching' %}</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">  </span>{{ post.type }}, {{ post.venue }}, {{ post.date | default: "1900-01-01" | date: "%Y" }}</span></p>
+<p class="p1"><span class="s1">{% elsif post.collection == 'publications' %}</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">  </span>Published in {{ post.venue }}, {{ post.date | default: "1900-01-01" | date: "%Y" }}</span></p>
+<p class="p1"><span class="s1">{% elsif post.date %}</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">  </span>{{ site.data.ui-text[site.locale].date_label | default: "Published:" }} {{ post.date | default: "1900-01-01" | date: "%B %d, %Y" }}</span></p>
+<p class="p1"><span class="s1">{% endif %}</span></p>
+<p class="p2"><span class="s1"></span><br></p>
+<p class="p1"><span class="s1">{% if post.excerpt and site.read_more != 'enabled' %}</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">  </span>{{ post.excerpt | markdownify }}</span></p>
+<p class="p1"><span class="s1">{% elsif post.excerpt and site.read_more == 'enabled' %}</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">  </span>&lt;p&gt;{{ post.excerpt | markdownify | remove: '\n' | remove: '\r' }} &lt;a href="{{ post.url | prepend: base_path }}"&gt;Read more&lt;/a&gt;&lt;/p&gt;</span></p>
+<p class="p1"><span class="s1">{% endif %}</span></p>
+<p class="p2"><span class="s1"></span><br></p>
+<p class="p1"><span class="s1">{% if post.citation %}</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">  </span>&lt;p&gt;&lt;strong&gt;Recommended citation:&lt;/strong&gt; {{ post.citation }}&lt;/p&gt;</span></p>
+<p class="p1"><span class="s1">{% endif %}</span></p>
+<p class="p2"><span class="s1"></span><br></p>
+<p class="p1"><span class="s1">{% if post.paperurl %}</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">  </span>&lt;a href="{{ post.paperurl }}" target="_blank" class="btn btn--inverse"&gt;Paper Link&lt;/a&gt;</span></p>
+<p class="p1"><span class="s1">{% endif %}</span></p>
+</body>
+</html>
