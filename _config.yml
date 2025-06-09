@@ -219,9 +219,6 @@ collections:
   publications:
     output: true
     permalink: /:collection/:path/
-  outreach:
-    output: true
-    permalink: /:collection/:path/
   otherinterests:
     output: true
     permalink: /:collection/:path/
