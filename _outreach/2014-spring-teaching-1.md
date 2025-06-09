@@ -1,11 +1,20 @@
 ---
-title: "Montoya Frosh and Transfer Scholars Program"
+title: "Outreach experience 1"
 collection: outreach
-type: "College"
-permalink: /outreach/2014-spring-teaching-1
-venue: "Stanford, El Centro"
-#date: 2023-01-01
-location: "Stanford, CA"
+type: "Workshop"
+permalink: /outreach/2015-spring-teaching-1
+venue: "University 1, Department"
+date: 2014-01-01
+location: "City, Country"
 ---
 
-I am also a mentor for the Montoya Frosh and Transfer Scholars Program, which is an El Centro-sponsored program that pairs grad students with first year undergraduate students from undergraduate backgrounds. The program offers workshops on essential life skills such as time-management, mindfulness techniques, financial literary and public speaking. In my case in particular, I offer insights into the unique challenges and opportunities for Latinx students in STEM. 
+This is a description of a outreach experience. You can use markdown like any other post.
+
+Heading 1
+======
+
+Heading 2
+======
+
+Heading 3
+======
