@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Outreach"
-permalink: /outreach/
+permalink: /outreach-new/
 author_profile: true
 ---
 
