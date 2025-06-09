@@ -7,7 +7,7 @@ excerpt: 'Preliminary report summarizing the goals, methods, and initial finding
 date: 2025-03-01
 venue: 'IODP Proceedings'
 paperurl: 'https://doi.org/10.14379/iodp.proc.399.101.2025'
-bibtexurl: ''
+#bibtexurl: ''
 citation: 'McCaig, A.M., Lang, S.Q., Blum, P., & Expedition 399 Scientists (2025). "International Ocean Discovery Program Expedition 399 Preliminary Report: Building Blocks of Life, Atlantis Massif." *IODP Proceedings*. https://doi.org/10.14379/iodp.proc.399.101.2025'
 ---
 
