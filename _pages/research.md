@@ -19,15 +19,15 @@ I conduct controlled laboratory experiments in which fresh dunite is serpentiniz
 
 ---
 
-## Changes in Rock Magnetic Properties with Serpentinization 
+## Magnetic Evolution During Serpentinization 
 
-<img src="/images/Rockmag.png" alt="Rockmag" width="600" style="float: right; margin: 10px;">
+<img src="/images/Rockmag.png" alt="Rockmag" width="400" style="float: right; margin: 10px;">
 
 Using samples collected from IODP Expedition 399, I investigate how magnetic properties evolve with increasing degrees of serpentinization. Measurements of magnetization intensity and domain state provide insight into serpentinization’s contribution to crustal magnetic anomalies, with potential relevance to interpreting magnetization patterns on Earth and other planetary bodies, such as Mars.
 
 ---
 
-## Reading the Magnetism Recorded within Serpentinites
+## Serpentinites Recording Footwall Rotation
 
 <img src="/images/FootwallRotation.png" alt="FootwallRotation" width="300" style="float: left; margin: 10px;">
 
@@ -37,13 +37,13 @@ Through stepwise demagnetization experiments on serpentinites and mafic rocks fr
 
 ## Other Projects
 
-### Serpentine Physical Properties
+### Serpentinite Physical Properties
 
 <img src="/images/Microstructure.png" alt="Microstructure" width="300" style="float: left; margin: 10px;">
 
 Motivated by the diverse microstructures of serpentine polymorphs, I experimentally investigated how fibrous arrangements influence deformation. I used synthetic sand-epoxy composites with controlled fiber geometries—either aligned or entangled—and subjected them to triaxial shear experiments while monitoring acoustic emissions. This study highlights how microscopic structural characteristics affect macroscopic behavior, shedding light on how lithology influences the nucleation and propagation of seismic events, including slow-slip and large earthquakes.
 
-### Serpentine Environmental Magnetism
+### Serpentinite Environmental Magnetism
 
 <img src="/images/Fire.png" alt="Fire" width="300" style="float: right; margin: 10px;">
 
