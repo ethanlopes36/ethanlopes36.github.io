@@ -5,7 +5,7 @@ permalink: /outreach/
 author_profile: true
 ---
 
-I am passionate about engaging with the public and inspiring future scientists through a variety of outreach activities. Below are some of the organizations and initiatives I’ve been involved with.
+I am passionate about engaging with the public and inspiring future scientists of all backgrounds through a variety of outreach activities. Check out some of the cool organizations and initiatives I’ve been involved with!
 
 ---
 
@@ -22,6 +22,16 @@ My efforts as a DEI liaison and student coordinator within the Doerr School of S
 <img src="/images/pertencer.png" alt="Pertenecer" width="300" style="float: right; margin: 10px;">
 
 Pertenecer is a Stanford-based program that connects K–12 students from underrepresented backgrounds with mentors and hands-on experiences in environmental sciences. The program aims to introduce students to careers in Earth sciences and academia, increase their comfort and confidence in college settings, and broaden their understanding of what it means to be an Earth scientist. Above all, Pertenecer strives to show students that they belong in spaces like Stanford and within the broader Earth science community. 
+
+---
+
+## [Various Mentorship Positions](https://sesur.stanford.edu/)
+
+<img src="/images/ElCentro.png" alt="Mentorships" width="300" style="float: right; margin: 10px;">
+
+I have taken on several mentorship roles in both scientific and interpersonal settings. As a research mentor for the Sustainability, Engineering, and Science Undergraduate Research (SESUR) program, I guided a first-year student through a one-unit spring course and a 10-week summer project. I trained her in microscopy, rock magnetism, and paleomagnetic techniques, helping her connect daily lab work to broader scientific questions and ultimately supporting her in presenting her findings at a research symposium. This summer, I’m excited to continue mentoring through the Sustainability Undergraduate Research in Geoscience and Engineering (SURGE) program.
+
+In more interpersonal settings, I serve as a mentor for the Vice Provost for Graduate Education’s Enhancing Diversity in Graduate Education (EDGE) program, where I organize informal lunches and provide guidance on navigating graduate school. I also supported my EDGE mentee in her successful NSF GRFP application. Additionally, I mentor through the Montoya Frosh and Transfer Scholars Program, an El Centro-sponsored initiative that pairs graduate students with first-year undergraduates from historically underrepresented backgrounds. This program includes workshops on time management, mindfulness, financial literacy, and public speaking. In my mentorship, I offer particular insight into the unique challenges and opportunities faced by Latinx students in STEM.
 
 ---
 
