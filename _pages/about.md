@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. candidate in Geophysics at Stanford University advised by Prof. Sonia Tikoo.  
+I am a Ph.D. candidate in **[Geophysics](https://geophysics.stanford.edu/)** at Stanford University and an NSF GRFP fellow advised by **[Prof. Sonia Tikoo](https://magnetism.stanford.edu/)**.
 
-Site Under Construction
+Site Under Construction  
 ======
