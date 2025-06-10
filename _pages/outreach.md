@@ -35,6 +35,6 @@ I supported the Truckee Meadows Parks Foundation’s mission to enhance communit
 
 ## [Greater Akron Hindu Sewa Samittee](https://www.akroncf.org/)
 
-<img src="/images/GreaterAkron.png" alt="Greater Akron Hindu Sewa Samittee" width="300" style="float: right; margin: 10px;">
+<img src="/images/GreaterAkron.jpg" alt="Greater Akron Hindu Sewa Samittee" width="300" style="float: right; margin: 10px;">
 
 I tutored a group of 25 Bhutanese and Nepalese refugees in preparation for their GED science exam, with a focus on physical sciences content.
