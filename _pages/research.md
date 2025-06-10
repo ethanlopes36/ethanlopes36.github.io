@@ -7,7 +7,7 @@ author_profile: true
 
 <img src="/images/Serpentinization.png" alt="Serpentinization" width="300" style="float: right; margin: 10px;">
 
-My doctoral research explores how serpentinization—a fluid-rock interaction process—modifies the magnetic properties of ultramafic (mantle-derived) rocks by generating secondary magnetic minerals. I approach this problem using two complementary strategies: (1) conducting laboratory experiments under simulated hydrothermal conditions and (2) analyzing naturally altered rocks collected from the Atlantic Ocean. Notably, I served as a U.S. representative on International Ocean Discovery Program (IODP) Expedition 399, where we drilled cores from the Atlantis Massif, an underwater mountain along the Mid-Atlantic Ridge. Faulting at the massif exposes deep-seated ultramafic rocks at the seafloor, offering rare access to study the serpentinization process and its implications for crustal magnetism.
+My doctoral research explores how serpentinization—a fluid-rock interaction process—modifies the magnetic properties of ultramafic (mantle-derived) rocks by generating secondary magnetic minerals. I approach this problem using a two-pronged approach: (1) conducting laboratory experiments under simulated hydrothermal conditions and (2) analyzing naturally altered rocks collected from the Atlantic Ocean. Notably, I served as a U.S. representative on International Ocean Discovery Program (IODP) Expedition 399, where we drilled cores from the Atlantis Massif, an underwater mountain along the Mid-Atlantic Ridge. Faulting at the massif exposes deep-seated ultramafic rocks at the seafloor, offering rare access to study the serpentinization process and its implications for crustal magnetism.
 
 ---
 
@@ -15,7 +15,7 @@ My doctoral research explores how serpentinization—a fluid-rock interaction pr
 
 <img src="/images/DunExp.png" alt="DunExp" width="150" style="float: left; margin: 10px;">
 
-I conduct controlled laboratory experiments in which fresh dunite is serpentinized under hydrothermal conditions. After alteration, I assess changes in the rocks’ magnetic and physical properties to understand how serpentinization contributes to the development of new magnetic phases and influences bulk material behavior.
+I conduct controlled laboratory experiments in which fresh, thermally cracked dunite is serpentinized under hydrothermal conditions. After alteration, I assess changes in the rocks’ magnetic and physical properties to understand how serpentinization contributes to the development of new magnetic phases and influences changes in bulk physical properties.
 
 ---
 
@@ -31,7 +31,7 @@ Using samples collected from IODP Expedition 399, I investigate how magnetic pro
 
 <img src="/images/FootwallRotation.png" alt="FootwallRotation" width="300" style="float: left; margin: 10px;">
 
-Through stepwise demagnetization experiments on serpentinites and mafic rocks from the Atlantis Massif footwall, I compare remanent magnetization directions across different structural regions, including the massif’s dome. These data help reconstruct the massif’s deformation history and support broader efforts to understand the tectonic exhumation of ultramafic rocks and the formation of oceanic core complexes.
+Through stepwise demagnetization experiments on serpentinites and mafic rocks from the Atlantis Massif footwall, I compare remanent magnetization directions across different structural regions, including the massif’s dome. These data help reconstruct the massif’s deformation history and support broader efforts to understand the tectonic exhumation of ultramafic rocks and the formation of oceanic core complexes along mid-ocean ridges.
 
 ---
 
@@ -41,7 +41,7 @@ Through stepwise demagnetization experiments on serpentinites and mafic rocks fr
 
 <img src="/images/Microstructure.png" alt="Microstructure" width="300" style="float: left; margin: 10px;">
 
-Motivated by the diverse microstructures of serpentine polymorphs, I experimentally investigated how fibrous arrangements influence deformation. I used synthetic sand-epoxy composites with controlled fiber geometries—either aligned or entangled—and subjected them to triaxial shear experiments while monitoring acoustic emissions. This study highlights how microscopic structural characteristics affect macroscopic behavior, shedding light on how lithology influences the nucleation and propagation of seismic events, including slow-slip and large earthquakes.
+Motivated by the diverse microstructures of serpentine polymorphs, I experimentally investigated how fibrous arrangements influence the bulk mode of failure. I used synthetic sand-epoxy composites with controlled fiber geometries—either aligned or entangled—and subjected them to triaxial shear experiments while monitoring acoustic emissions. This study highlights how microscopic structural characteristics affect macroscopic behavior, shedding light on how lithology influences the nucleation and propagation of seismic events, including slow-slip and large earthquakes.
 
 ### Serpentinite Environmental Magnetism
 
