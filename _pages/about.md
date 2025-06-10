@@ -11,4 +11,8 @@ I am a Ph.D. candidate in **[Geophysics](https://geophysics.stanford.edu/)** at 
 
 ## About Me
 
+<div style="text-align: justify;">
+
 As a scientist-in-training, I study how secondary magnetic minerals form through fluid–rock interactions and how their magnetic signals can reveal broader geological processes. My research draws upon the interconnected nature of ocean and planetary sciences. By applying a planetary perspective to Earth systems, I aim to both test planetary hypotheses and reevaluate fundamental geologic processes. I investigate these fundamental processes through experimental work that integrates rock magnetism and rock physics—two deeply interconnected disciplines—alongside advanced imaging techniques.
+
+</div>
