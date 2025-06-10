@@ -19,7 +19,7 @@ My efforts as a DEI liaison and student coordinator within the Doerr School of S
 
 ## [Pertenecer](https://perteneceryoubelon.wixsite.com/website)
 
-<img src="/images/pertencer.jpg" alt="Pertenecer" width="300" style="float: right; margin: 10px;">
+<img src="/images/pertenecer.png" alt="Pertenecer" width="300" style="float: right; margin: 10px;">
 
 Pertenecer is a Stanford-based program that connects K–12 students from underrepresented backgrounds with mentors and hands-on experiences in environmental sciences. The program aims to introduce students to careers in Earth sciences and academia, increase their comfort and confidence in college settings, and broaden their understanding of what it means to be an Earth scientist. Above all, Pertenecer strives to show students that they belong in spaces like Stanford and within the broader Earth science community. 
 
