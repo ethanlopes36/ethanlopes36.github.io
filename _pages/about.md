@@ -6,11 +6,8 @@ redirect_from:
   - /about/
   - /about.html
 ---
-<div style="text-align: justify;">
 
 I am a Ph.D. candidate in **[Geophysics](https://geophysics.stanford.edu/)** at Stanford University and an NSF GRFP fellow advised by **[Prof. Sonia Tikoo](https://magnetism.stanford.edu/)**.
-
-</div>
 
 ## About Me
 
