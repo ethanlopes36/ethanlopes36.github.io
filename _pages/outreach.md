@@ -4,9 +4,11 @@ title: "Outreach"
 permalink: /outreach/
 author_profile: true
 ---
+<div style="text-align: justify;">
 
 I am passionate about engaging with the public and inspiring future scientists of all backgrounds through a variety of outreach activities. Check out some of the cool organizations and initiatives I’ve been involved with!
 
+</div>
 ---
 
 ## [Stanford Doerr Diversity, Equity, and Inclusion](https://sustainability.stanford.edu/our-community/dei)

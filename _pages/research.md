@@ -29,7 +29,27 @@ Using samples collected from IODP Expedition 399, I investigate how magnetic pro
 
 ## Serpentinites Recording Footwall Rotation
 
-<img src="/images/FootwallRotation.png" alt="FootwallRotation" width="300" style="float: left; margin: 10px;">
+<style>
+@keyframes spin {
+  from { transform: rotate(0deg); }
+  to { transform: rotate(360deg); }
+}
+.spin-on-click {
+  transition: transform 0.6s ease-in-out;
+}
+.spin-on-click.clicked {
+  animation: spin 0.6s linear;
+}
+</style>
+
+<img 
+  src="/images/FootwallRotation.png" 
+  alt="FootwallRotation" 
+  width="300" 
+  style="float: left; margin: 10px;" 
+  class="spin-on-click"
+  onclick="this.classList.remove('clicked'); void this.offsetWidth; this.classList.add('clicked');">
+
 
 Through stepwise demagnetization experiments on serpentinites and mafic rocks from the Atlantis Massif footwall, I compare remanent magnetization directions across different structural regions, including the massif’s dome. These data help reconstruct the massif’s deformation history and support broader efforts to understand the tectonic exhumation of ultramafic rocks and the formation of oceanic core complexes along mid-ocean ridges.
 
