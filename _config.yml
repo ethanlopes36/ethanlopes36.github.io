@@ -26,10 +26,10 @@ author:
   #name             : "Ethan Lopes"
   pronouns         : # example: "he/him"  
   bio              : "Rock Magnetist"
-  location         : "Palo Alto, CA"
-  employer         : "Stanford University"
+  location         : "La Jolla, CA"
+  employer         : "Scripps Institution of Oceanography"
   uri              : #https://ethanlopes36.github.io/
-  email            : "ellopes@stanford.edu" 
+  email            : "elopes@ucsd.edu" 
 
   # Academic websites
   academia         : # URL

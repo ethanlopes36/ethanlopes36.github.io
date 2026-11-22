@@ -4,11 +4,13 @@ title: "Research"
 permalink: /research/
 author_profile: true
 ---
+# Current Research
 I am currently investigating how altered oceanic rocks can serve as reliable recorders of ancient magnetic signatures from the Archean Eon. This research could also inform geophysical exploration methods for identifying critical mineral deposits in the field.
 
 
 <img src="/images/Serpentinization.png" alt="Serpentinization" width="300" style="float: right; margin: 10px;">
 
+# Ph.D. Research
 My doctoral research explores how serpentinization—a fluid-rock interaction process—modifies the magnetic properties of ultramafic (mantle-derived) rocks by generating secondary magnetic minerals. I approach this problem using a two-pronged approach: (1) conducting laboratory experiments under simulated hydrothermal conditions and (2) analyzing naturally altered rocks collected from the Atlantic Ocean. Notably, I served as a U.S. representative on International Ocean Discovery Program (IODP) Expedition 399, where we drilled cores from the Atlantis Massif, an underwater mountain along the Mid-Atlantic Ridge. Faulting at the massif exposes deep-seated ultramafic rocks at the seafloor, offering rare access to study the serpentinization process and its implications for crustal magnetism.
 
 ---
