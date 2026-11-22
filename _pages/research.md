@@ -4,6 +4,8 @@ title: "Research"
 permalink: /research/
 author_profile: true
 ---
+I am currently investigating how altered oceanic rocks can serve as reliable recorders of ancient magnetic signatures from the Archean Eon. This research could also inform geophysical exploration methods for identifying critical mineral deposits in the field.
+
 
 <img src="/images/Serpentinization.png" alt="Serpentinization" width="300" style="float: right; margin: 10px;">
 
