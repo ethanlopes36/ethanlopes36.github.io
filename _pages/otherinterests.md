@@ -15,7 +15,7 @@ When I'm not in the lab, you can catch me diving, backpacking, star gazing, play
 
   <div class="carousel-cell">
     <a href="/images/EthanDiving.JPEG">
-      <img src="/images/EthanDiving.JPEG" alt="Rubber Duck">
+      <img src="/images/EthanDiving.JPEG" alt="diving">
     </a>
   </div>
 
