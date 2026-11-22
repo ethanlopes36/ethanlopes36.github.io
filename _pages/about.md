@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a postdoctoral researcher at the Scripps Institution of Oceanography working with Prof. Alec Brenner.
+I am a postdoctoral scholar at the Scripps Institution of Oceanography at the University of California, San Diego, where I conduct research under the mentorship of Prof. Alec Brenner. I am also a former National Science Foundation Graduate Research Fellow.
 
 ## About Me
 
