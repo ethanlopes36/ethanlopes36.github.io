@@ -24,3 +24,16 @@ Local Bay Area news story about solar flares.
 {% for post in site.press %}
   {% include archive-single.html %}
 {% endfor %}
+
+
+---
+
+### News Article: Building Bridges Across the School Community
+
+**Stanford Doerr School of Sustainability | August 21, 2026**
+
+[**Building Bridges Across the School Community**](https://sustainability.stanford.edu/news/building-bridges-across-school-community/)
+
+Stanford University profile highlighting my academic journey, community engagement, and efforts to connect science with society through mentorship and outreach.
+
+---

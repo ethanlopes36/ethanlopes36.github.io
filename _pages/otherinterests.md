@@ -5,13 +5,19 @@ permalink: /otherinterests/
 author_profile: true
 ---
 
-When I'm not in the lab, you can catch me backpacking, star gazing, playing viola, collecting rubber ducks, working on stained glass projects, or trying out local coffee shops!
+When I'm not in the lab, you can catch me diving, backpacking, star gazing, playing viola, collecting rubber ducks, working on stained glass projects, or trying out local coffee shops!
 
 ---
 
 ### Hobbies and such:
 
 <div class="carousel" data-flickity='{ "imagesLoaded": true, "wrapAround": true, "autoPlay": 5000, "pauseAutoPlayOnHover": true }'>
+
+  <div class="carousel-cell">
+    <a href="/images/EthanDiving.JPEG">
+      <img src="/images/EthanDiving.JPEG" alt="Rubber Duck">
+    </a>
+  </div>
 
   <div class="carousel-cell">
     <a href="/images/RubberDuck.jpg">
