@@ -30,10 +30,18 @@ Local Bay Area news story about solar flares.
 
 ### News Article: Building Bridges Across the School Community
 
-**Stanford Doerr School of Sustainability | August 21, 2026**
+<a href="https://sustainability.stanford.edu/news/building-bridges-across-school-community/"
+   target="_blank"
+   rel="noopener noreferrer">
+  <img
+    src="https://sustainability.stanford.edu/wp-content/uploads/sites/11/2026/10/ethan-arun_handshake_banner_0.avif"
+    alt="Stanford Doerr School Excellence in Community Award"
+    style="width: 100%; max-width: 560px; aspect-ratio: 16/9; object-fit: cover; border-radius: 4px;">
+</a>
 
-[**Building Bridges Across the School Community**](https://sustainability.stanford.edu/news/building-bridges-across-school-community/)
-
-Stanford University profile highlighting my academic journey, community engagement, and efforts to connect science with society through mentorship and outreach.
+Stanford Doerr School of Sustainability (August 2026).
+Profile highlighting my academic journey, mentorship,
+and community engagement.
 
 ---
+
