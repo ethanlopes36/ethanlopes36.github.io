@@ -28,6 +28,27 @@ Local Bay Area news story about solar flares.
 
 ---
 
+### Video 3: Tribute to Professor Jay Pasachoff
+
+<div style="text-align: center;">
+  <iframe
+    width="560"
+    height="315"
+    src="https://www.youtube.com/embed/nYL1cS-frys"
+    title="Tribute to Professor Jay Pasachoff"
+    frameborder="0"
+    style="max-width: 100%;"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+    allowfullscreen>
+  </iframe>
+</div>
+
+<p>
+I conceived the idea for and spearheaded the production of a tribute video featuring Williams College alumni to honor the life and legacy of the late Professor Jay Pasachoff. His pioneering contributions to solar eclipse science and unwavering dedication to education inspired generations of students, scientists, and educators around the world.
+</p>
+
+---
+
 ### News Article: Building Bridges Across the School Community
 
 <a href="https://sustainability.stanford.edu/news/building-bridges-across-school-community/"
